@@ -1,6 +1,6 @@
 # Past Life Predictor
 
-Welcome to the Past Life Predictor! This Streamlit app is designed to provide you with insights into what kind of being you might have been in a past life based on your current life experiences, personality traits, and preferences.
+Welcome to the [Past Life Predictor](https://past-life-predictor.streamlit.app/)! This Streamlit app is designed to provide you with insights into what kind of being you might have been in a past life based on your current life experiences, personality traits, and preferences.
 
 ## How It Works
 
